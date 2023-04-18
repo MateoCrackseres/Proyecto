@@ -1,0 +1,6 @@
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe.config
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.csprojResolveAssemblyReference.cache
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio1\ejercicio1\ejercicio1\obj\Debug\ejercicio1.pdb

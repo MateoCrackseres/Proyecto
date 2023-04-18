@@ -1,0 +1,6 @@
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

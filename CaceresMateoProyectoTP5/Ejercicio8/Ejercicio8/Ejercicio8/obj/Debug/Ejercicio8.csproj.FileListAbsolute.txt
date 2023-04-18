@@ -1,0 +1,5 @@
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio8\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio8\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb

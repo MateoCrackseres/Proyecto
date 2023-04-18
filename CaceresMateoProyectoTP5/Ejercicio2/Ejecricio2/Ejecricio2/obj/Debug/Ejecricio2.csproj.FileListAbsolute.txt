@@ -1,0 +1,5 @@
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio2\Ejecricio2\Ejecricio2\bin\Debug\Ejecricio2.exe.config
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio2\Ejecricio2\Ejecricio2\bin\Debug\Ejecricio2.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio2\Ejecricio2\Ejecricio2\bin\Debug\Ejecricio2.pdb
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio2\Ejecricio2\Ejecricio2\obj\Debug\Ejecricio2.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio2\Ejecricio2\Ejecricio2\obj\Debug\Ejecricio2.pdb

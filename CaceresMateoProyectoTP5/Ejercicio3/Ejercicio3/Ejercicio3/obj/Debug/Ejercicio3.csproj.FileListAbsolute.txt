@@ -1,0 +1,5 @@
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP5\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

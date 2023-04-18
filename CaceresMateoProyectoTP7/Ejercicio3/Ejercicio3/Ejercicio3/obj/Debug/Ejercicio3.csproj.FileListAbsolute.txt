@@ -1,0 +1,7 @@
+E:\CaceresMateoProyectoTP7\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+E:\CaceresMateoProyectoTP7\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+E:\CaceresMateoProyectoTP7\Ejercicio3\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+E:\CaceresMateoProyectoTP7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojAssemblyReference.cache
+E:\CaceresMateoProyectoTP7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+E:\CaceresMateoProyectoTP7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+E:\CaceresMateoProyectoTP7\Ejercicio3\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

@@ -1,0 +1,5 @@
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio2\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+D:\usuarios\alumno\escritorio\ernesio y mateo tp3\ejercicio2\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb

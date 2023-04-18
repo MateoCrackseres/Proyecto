@@ -1,0 +1,5 @@
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio2\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio2\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio2\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+E:\Biblioteca\Desktop\CaceresMateoProyectoTP6\Ejercicio2\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb
