@@ -1,0 +1,17 @@
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\bin\Debug\net6.0-windows\Ejercicio6.exe
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\bin\Debug\net6.0-windows\Ejercicio6.deps.json
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\bin\Debug\net6.0-windows\Ejercicio6.runtimeconfig.json
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\bin\Debug\net6.0-windows\Ejercicio6.dll
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\bin\Debug\net6.0-windows\Ejercicio6.pdb
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.Form1.resources
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.csproj.GenerateResource.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.AssemblyInfoInputs.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.AssemblyInfo.cs
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.dll
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\refint\Ejercicio6.dll
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.pdb
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\Ejercicio6.genruntimeconfig.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\CaceresMateoProyectoTP10\Ejercicio6\Ejercicio6\obj\Debug\net6.0-windows\ref\Ejercicio6.dll

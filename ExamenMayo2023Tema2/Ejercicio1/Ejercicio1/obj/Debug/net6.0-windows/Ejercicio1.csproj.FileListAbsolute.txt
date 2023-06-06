@@ -1,0 +1,17 @@
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.exe
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.deps.json
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.runtimeconfig.json
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.dll
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\bin\Debug\net6.0-windows\Ejercicio1.pdb
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.Form1.resources
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.AssemblyInfo.cs
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.dll
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\refint\Ejercicio1.dll
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.pdb
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\Ejercicio1.genruntimeconfig.cache
+C:\Users\matre\OneDrive\Escritorio\Proyecto\ExamenMayo2023Tema2\Ejercicio1\Ejercicio1\obj\Debug\net6.0-windows\ref\Ejercicio1.dll
