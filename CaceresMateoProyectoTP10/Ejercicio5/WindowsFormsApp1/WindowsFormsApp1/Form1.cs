@@ -41,22 +41,24 @@ namespace WindowsFormsApp1
         private void timer1_Tick(object sender, EventArgs e)
         {
             
-
-            //do
-            //{
                 etMostrar.Text = h + ":" + m + ":" + s;
                 s += 1;
-                if (s == 59)
+                if (s == 60)
                 {
                     m = m + 1;
                     s = 0;
-                    if (m == 59)
+                    if (m == 60)
                     {
                         h = h + 1;
                         m = 0;
+                        if (h == 24)
+                        {
+                        h = 0;
+                        m = 0;
+                        s = 0;
+                        }
                     }
                 }
-           // } while (h < 25);
         }
     }
 }
