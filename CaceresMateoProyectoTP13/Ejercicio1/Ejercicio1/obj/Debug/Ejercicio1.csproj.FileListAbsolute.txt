@@ -1,0 +1,11 @@
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoProyectoTP13\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

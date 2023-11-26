@@ -1,0 +1,11 @@
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\bin\Debug\CaceresMateoTP11.exe.config
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\bin\Debug\CaceresMateoTP11.exe
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\bin\Debug\CaceresMateoTP11.pdb
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.csproj.AssemblyReference.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.csproj.SuggestedBindingRedirects.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.Form1.resources
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.Properties.Resources.resources
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.csproj.GenerateResource.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.csproj.CoreCompileInputs.cache
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.exe
+C:\Users\matre\OneDrive\Escritorio\BS\Proyecto\CaceresMateoTP11\CaceresMateoTP11\obj\Debug\CaceresMateoTP11.pdb
